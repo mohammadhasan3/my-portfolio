@@ -1,0 +1,17 @@
+h1 {
+  font-size: xx-large;
+  color: #3b3a30;
+}
+
+.bodyBackground {
+  background-color: whitesmoke;
+  margin-left: 20px;
+}
+
+.profilePicture {
+  height: 200px;
+  width: 200px;
+  margin: 20px 20px 20px 500px;
+  border-style: groove;
+  border: 10px 10px 10px 10px;
+}
